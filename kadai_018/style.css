@@ -14,8 +14,7 @@
 #middle {
   width: 800px;
   height: 800px;
-  margin: 0 auto;
-  padding: 20px 0;
+  margin: 20px auto;
   background-color: #ffd9df;
   position: relative;
 }
